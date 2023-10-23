@@ -1,6 +1,6 @@
 import mysql.connector
 global psw
-psw = "shan1234"
+psw = "******"
 
 
 # checks if user exists, if not adds to table
